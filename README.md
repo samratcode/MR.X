@@ -14,4 +14,10 @@ Keep supporting us 😊
 
 
 [DEVLOPER](https://t.me/ANlME_SENPAI)
-[BOTPROTOCOL](https://t.me/BOTPROTOCOL)
+
+
+
+
+
+
+       [BOTPROTOCOL](https://t.me/BOTPROTOCOL)
