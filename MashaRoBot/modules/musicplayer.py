@@ -22,7 +22,7 @@ __help__ = """
             
  ᎩᏬᎥ X ᴍᴜsɪᴄ plays music in your group's voice chat
  
- Assistant username >>  @YUI_VC_ASSISTANT 
+ Assistant username >>  t.me/YUI_VC_ASSISTANT 
  
 <b> Setting up </b>
 1) Make bot admin
