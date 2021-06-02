@@ -105,7 +105,7 @@ HELP_STRINGS = """
 *ᎩᏬᎥ comes with many special features in it*
 *CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ᎩᏬᎥ*
 👷 *All commands can either be used with* `/` *or* `!`.
-👷 *If you facing any issue or find any bugs in any command then you can report it in @chat_support_yui_robot* [.](https://telegra.ph/file/36c57221ea00d88fbcd89.jpg)
+👷 *If you facing any issue or find any bugs in any command then you can report it in @chat_support_yui_robot* [.](https://telegra.ph/file/e5cbf8ba4723a8ac34f68.jpg)
 """
 
 
@@ -354,7 +354,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *Haguromo Otsusuki*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *ᎩᏬᎥ*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -362,8 +362,8 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Emcee's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://www.github.com/satyanandatripathi/emcee).
-                 If you have any question about Rikudo senin, let us know at @satyanandatripathi.""",
+                 Here is the [Bot-protocol](https://t.me/BotProtocol).
+                 If you have any question about ᎩᏬᎥ, let us know at @chat_support_yui_robot.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -389,8 +389,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Haguromo Otsusuki*
-                 \nHere is the [Source Code](https://GitHub.com/satyanandatripathi/emcee) .""",
+            text=""" Hi..🤗 I'm *ᎩᏬᎥ*
+                 \nHere is the [Bot-protocol](https://t.me/BotProtocol) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
