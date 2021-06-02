@@ -22,7 +22,7 @@ __help__ = """
             
  ᎩᏬᎥ X ᴍᴜsɪᴄ plays music in your group's voice chat
  
- Assistant name >> ꧁ @YUI_VC_ASSISTANT ꧂
+ Assistant username >>  @YUI_VC_ASSISTANT 
  
 <b> Setting up </b>
 1) Make bot admin
@@ -46,7 +46,7 @@ __help__ = """
   /playlist: Shows playlist
 =>> More tools 📲
   /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-  /userbotjoin: Invite @YUI_VC_ASSISTANT Userbot to your chat
+  /userbotjoin: Invite @YUI_VC_ASSISTANT to your chat
 *Player cmd and all other cmds except /play, /current  and /playlist  are only for admins with manage group
 <b> PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME </b>
 """
